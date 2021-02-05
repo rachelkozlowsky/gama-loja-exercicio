@@ -1,8 +1,11 @@
 ﻿using System;
+using Girls.Gama2.Interfaces;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Girls.Gama2.Entidades
 {
-    public class Boleto
+    public class Boleto : Pagamento, IPagamento
     {
         private const int DiasVencimento = 15;
         private const double Juros = 0.10;

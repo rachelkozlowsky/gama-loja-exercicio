@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\Gama\\WeCanCodeAcademy\\C#\\girls.gama.loja\\Girls.Gama2\\Girls.Gama2.csproj": {}
+    "/home/koz/Gama/gama-loja-exercicio/Girls.Gama2/Girls.Gama2.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\Gama\\WeCanCodeAcademy\\C#\\girls.gama.loja\\Girls.Gama2\\Girls.Gama2.csproj": {
+    "/home/koz/Gama/gama-loja-exercicio/Girls.Gama2/Girls.Gama2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\Gama\\WeCanCodeAcademy\\C#\\girls.gama.loja\\Girls.Gama2\\Girls.Gama2.csproj",
+        "projectUniqueName": "/home/koz/Gama/gama-loja-exercicio/Girls.Gama2/Girls.Gama2.csproj",
         "projectName": "Girls.Gama2",
-        "projectPath": "D:\\projetos\\Gama\\WeCanCodeAcademy\\C#\\girls.gama.loja\\Girls.Gama2\\Girls.Gama2.csproj",
-        "packagesPath": "C:\\Users\\Koz\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\Gama\\WeCanCodeAcademy\\C#\\girls.gama.loja\\Girls.Gama2\\obj\\",
+        "projectPath": "/home/koz/Gama/gama-loja-exercicio/Girls.Gama2/Girls.Gama2.csproj",
+        "packagesPath": "/home/koz/.nuget/packages/",
+        "outputPath": "/home/koz/Gama/gama-loja-exercicio/Girls.Gama2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Koz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/koz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
         }
       }
     }
